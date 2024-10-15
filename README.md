@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My public repositories showcase projects created during my learning journey. These are non-commercial works that may contain errors and imperfections, but each one reflects my progress in mastering complex technologies. Some of these projects demonstrate interesting solutions and approaches to challenging tasks, which I will continue to refine.
+
 <!--
 **git-elena/git-elena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
